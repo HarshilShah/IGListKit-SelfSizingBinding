@@ -1,0 +1,6 @@
+framework module Pods_IGListKit_SelfSizingBinding {
+  umbrella header "Pods-IGListKit-SelfSizingBinding-umbrella.h"
+
+  export *
+  module * { export * }
+}

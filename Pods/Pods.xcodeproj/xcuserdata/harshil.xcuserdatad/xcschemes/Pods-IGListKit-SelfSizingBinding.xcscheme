@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Scheme
-   LastUpgradeVersion = "0830"
+   LastUpgradeVersion = "0700"
    version = "1.3">
    <BuildAction
       parallelizeBuildables = "YES"
@@ -14,10 +14,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "E8770A481EC6C89D0065DB53"
-               BuildableName = "IGListKit-SelfSizingBinding.app"
-               BlueprintName = "IGListKit-SelfSizingBinding"
-               ReferencedContainer = "container:IGListKit-SelfSizingBinding.xcodeproj">
+               BlueprintIdentifier = "E4EAB9081602B71BCD766252DCE41830"
+               BuildableName = "Pods_IGListKit_SelfSizingBinding.framework"
+               BlueprintName = "Pods-IGListKit-SelfSizingBinding"
+               ReferencedContainer = "container:Pods.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -29,15 +29,6 @@
       shouldUseLaunchSchemeArgsEnv = "YES">
       <Testables>
       </Testables>
-      <MacroExpansion>
-         <BuildableReference
-            BuildableIdentifier = "primary"
-            BlueprintIdentifier = "E8770A481EC6C89D0065DB53"
-            BuildableName = "IGListKit-SelfSizingBinding.app"
-            BlueprintName = "IGListKit-SelfSizingBinding"
-            ReferencedContainer = "container:IGListKit-SelfSizingBinding.xcodeproj">
-         </BuildableReference>
-      </MacroExpansion>
       <AdditionalOptions>
       </AdditionalOptions>
    </TestAction>
@@ -51,16 +42,15 @@
       debugDocumentVersioning = "YES"
       debugServiceExtension = "internal"
       allowLocationSimulation = "YES">
-      <BuildableProductRunnable
-         runnableDebuggingMode = "0">
+      <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "E8770A481EC6C89D0065DB53"
-            BuildableName = "IGListKit-SelfSizingBinding.app"
-            BlueprintName = "IGListKit-SelfSizingBinding"
-            ReferencedContainer = "container:IGListKit-SelfSizingBinding.xcodeproj">
+            BlueprintIdentifier = "E4EAB9081602B71BCD766252DCE41830"
+            BuildableName = "Pods_IGListKit_SelfSizingBinding.framework"
+            BlueprintName = "Pods-IGListKit-SelfSizingBinding"
+            ReferencedContainer = "container:Pods.xcodeproj">
          </BuildableReference>
-      </BuildableProductRunnable>
+      </MacroExpansion>
       <AdditionalOptions>
       </AdditionalOptions>
    </LaunchAction>
@@ -70,16 +60,6 @@
       savedToolIdentifier = ""
       useCustomWorkingDirectory = "NO"
       debugDocumentVersioning = "YES">
-      <BuildableProductRunnable
-         runnableDebuggingMode = "0">
-         <BuildableReference
-            BuildableIdentifier = "primary"
-            BlueprintIdentifier = "E8770A481EC6C89D0065DB53"
-            BuildableName = "IGListKit-SelfSizingBinding.app"
-            BlueprintName = "IGListKit-SelfSizingBinding"
-            ReferencedContainer = "container:IGListKit-SelfSizingBinding.xcodeproj">
-         </BuildableReference>
-      </BuildableProductRunnable>
    </ProfileAction>
    <AnalyzeAction
       buildConfiguration = "Debug">
