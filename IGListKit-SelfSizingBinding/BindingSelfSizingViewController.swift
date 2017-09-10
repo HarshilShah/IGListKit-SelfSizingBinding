@@ -41,7 +41,8 @@ final class BindingSelfSizingViewController: UIViewController {
     }
     
     func refresh() {
-        adapter.performUpdates(animated: true, completion: nil)
+        NotificationCenter.default.post(name: .refresh, object: nil)
+//        adapter.performUpdates(animated: true, completion: nil)
     }
     
 }

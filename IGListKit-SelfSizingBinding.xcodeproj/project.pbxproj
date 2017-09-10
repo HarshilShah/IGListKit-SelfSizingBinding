@@ -16,6 +16,7 @@
 		E8770A521EC6C89D0065DB53 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E8770A501EC6C89D0065DB53 /* Main.storyboard */; };
 		E8770A541EC6C89D0065DB53 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E8770A531EC6C89D0065DB53 /* Assets.xcassets */; };
 		E8770A571EC6C89D0065DB53 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E8770A551EC6C89D0065DB53 /* LaunchScreen.storyboard */; };
+		E89A706E1F6573B700CA6830 /* Notification.Name.swift in Sources */ = {isa = PBXBuildFile; fileRef = E89A706D1F6573B700CA6830 /* Notification.Name.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -31,6 +32,7 @@
 		E8770A531EC6C89D0065DB53 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		E8770A561EC6C89D0065DB53 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		E8770A581EC6C89D0065DB53 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		E89A706D1F6573B700CA6830 /* Notification.Name.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Notification.Name.swift; sourceTree = "<group>"; };
 		F43E6A5016A1E79F80A1055B /* Pods_IGListKit_SelfSizingBinding.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_IGListKit_SelfSizingBinding.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
@@ -80,6 +82,7 @@
 				E8165D021EC6CF57002A5D91 /* LabelModel.swift */,
 				E8165D031EC6CF57002A5D91 /* LabelModelSectionController.swift */,
 				E8165D011EC6CF57002A5D91 /* FullWidthSelfSizingCell.swift */,
+				E89A706D1F6573B700CA6830 /* Notification.Name.swift */,
 				E8770A501EC6C89D0065DB53 /* Main.storyboard */,
 				E8770A531EC6C89D0065DB53 /* Assets.xcassets */,
 				E8770A551EC6C89D0065DB53 /* LaunchScreen.storyboard */,
@@ -223,6 +226,7 @@
 			files = (
 				E8165D071EC6CF57002A5D91 /* LabelModelSectionController.swift in Sources */,
 				E8165D051EC6CF57002A5D91 /* FullWidthSelfSizingCell.swift in Sources */,
+				E89A706E1F6573B700CA6830 /* Notification.Name.swift in Sources */,
 				E8165D061EC6CF57002A5D91 /* LabelModel.swift in Sources */,
 				E8165D041EC6CF57002A5D91 /* BindingSelfSizingViewController.swift in Sources */,
 				E8770A4D1EC6C89D0065DB53 /* AppDelegate.swift in Sources */,
